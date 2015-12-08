@@ -1,7 +1,7 @@
 name: FastLife
 favicon: null
 layout_spectrum: 0.7545256630983204
-typography_spectrum: 0.39324406790547073
+typography_spectrum: 0.22597
 title: Life through my lenses
 cta:
   domain: null
@@ -24,6 +24,6 @@ color:
     - '#004E98'
   brandStrength: 0.779877656372264
   lightness: 0.7967482695821673
-  saturation: 0.004906158894300461
-  rhythmicContrast: 0.7246100599877536
+  saturation: 0.125
+  rhythmicContrast: 0.75
 purpose: []
