@@ -1,0 +1,28 @@
+name: FastLife
+favicon: null
+layout_spectrum: 0.7545256630983204
+typography_spectrum: 0.39324406790547073
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.779877656372264
+  lightness: 0.7967482695821673
+  saturation: 0.004906158894300461
+  rhythmicContrast: 0.7246100599877536
+purpose: []
