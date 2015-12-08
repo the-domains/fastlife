@@ -4,14 +4,21 @@
         <description><![CDATA[Life through my lenses]]></description>
         <link>https://thegrid.ai/fastlife/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Dec 2015 16:31:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Dec 2015 16:30:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/fastlife/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Ocean Mornings]]></title>
-            <description><![CDATA[<article><h1>Ocean Mornings</h1><p>Miami Beach photos, usually from the lense of my GoPro</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a95fcc5662463ac1ff6e5d83dbc907627119b2a4.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Ocean Mornings</h1><p>Miami Beach photos, usually from the lense of my GoPro</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e161fbb99462a092753e3088dddf0b454d3592bd.jpg"></article>]]></description>
             <link>https://thegrid.ai/fastlife/ocean-mornings/index.html</link>
             <guid isPermaLink="false">0548b485-3b80-4b86-aed9-4ab2ee86064a</guid>
             <pubDate>Tue, 08 Dec 2015 16:30:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Launch Point]]></title>
+            <description><![CDATA[<article><h1>Launch Point</h1><p>Launch @ the end of 2015.</p></article>]]></description>
+            <link>https://thegrid.ai/fastlife/launch-point/index.html</link>
+            <guid isPermaLink="false">102b1334-28be-4135-9336-e2373b1f1fa5</guid>
+            <pubDate>Tue, 08 Dec 2015 16:12:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
