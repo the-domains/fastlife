@@ -4,7 +4,7 @@
         <description><![CDATA[Life through my lenses]]></description>
         <link>https://thegrid.ai/fastlife/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Dec 2015 16:56:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Dec 2015 17:06:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/fastlife/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Ocean Mornings]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/fastlife/ocean-mornings/index.html</link>
             <guid isPermaLink="false">0548b485-3b80-4b86-aed9-4ab2ee86064a</guid>
             <pubDate>Tue, 08 Dec 2015 16:30:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[HDR Shots]]></title>
+            <description><![CDATA[<article><h1>HDR Shots</h1><p>High Dynamic Range photos look great during sunrise!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8f3fba93a64f4c61af8d04db1a1bcdb073657453.jpg"></article>]]></description>
+            <link>https://thegrid.ai/fastlife/hdr-shots/index.html</link>
+            <guid isPermaLink="false">38e41c24-6079-4781-b5dd-3e47a3cff9a3</guid>
+            <pubDate>Tue, 08 Dec 2015 17:06:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Puppy Workouts]]></title>
